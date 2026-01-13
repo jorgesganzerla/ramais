@@ -43,11 +43,11 @@ mysql -u root -p < banco_de_dados.sql
 ### 3. Configuração da Conexão
 
 O sistema está configurado para:
-- **Host**: localhost
-- **Usuário**: root
-- **Senha**: 123456789
-- **Banco**: mydb
-- **Porta**: 3306
+- **Host**: 
+- **Usuário**: 
+- **Senha**: 
+- **Banco**: 
+- **Porta**: 
 
 ### 4. Uso da Interface
 
