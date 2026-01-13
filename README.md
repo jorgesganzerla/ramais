@@ -40,16 +40,8 @@ Sistema web para consulta de ramais telefônicos e setores de uma instituição,
 mysql -u root -p < banco_de_dados.sql
 ```
 
-### 3. Configuração da Conexão
 
-O sistema está configurado para:
-- **Host**: 
-- **Usuário**: 
-- **Senha**: 
-- **Banco**: 
-- **Porta**: 
-
-### 4. Uso da Interface
+### 3. Uso da Interface
 
 1. **Busca por Setor**:
    - Digite o nome do setor no campo principal
