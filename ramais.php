@@ -29,7 +29,7 @@ function exibirSetor($resultado) {
 }
 
 // Conexão
-$conexao = new mysqli('localhost', 'root', '123456789', 'mydb', 3306);
+$conexao = new mysqli('', '', '', '', );
 if ($conexao->connect_errno) {
     echo "<p>Falha na conexão com MySQL: " . $conexao->connect_error . "</p>";
     exit();
